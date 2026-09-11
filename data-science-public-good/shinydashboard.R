@@ -14,7 +14,7 @@ library(factoextra)
 library(corrplot)
 
 # Load dataset
-adata <- readRDS("data/acs_places_rural_food.RDS")
+adata <- readRDS("acs_places_rural_food.RDS")
 
 # Select relevant variables and drop geometry
 adata <- adata %>%
