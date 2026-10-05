@@ -7,6 +7,7 @@ A collection of my data science, research, and competition projects, including w
 - **EcoAI** — 3rd Place, AI Innovation Challenge (Mar 2026). Data-driven tool helping Northern Virginia residents understand data centers' impact on energy costs, with bill-reduction insights and a policy advocacy layer.
 - **[Data Science for the Public Good](./data-science-public-good/shinydashboard.R)** — Analyzed public health datasets to identify community clusters and built an R Shiny dashboard for stakeholders; findings informed a policy memo on food deserts and health disparities presented to VASEM members and legislators (./data-science-public-good/shinydashboard.R).
 - **[The Yard Fund](./yard-fund)** — Full-stack PHP/MySQL web application connecting VSU students with tuition balances to donors and alumni for direct giving. Built with session-based authentication, role-based access control, Chart.js donor analytics, and automated email delivery via PHPMailer.
+- **[Obstructions to GVD](./ams-presentation)** — Presented at the AMS 2026 Fall Eastern Sectional Meeting. Joint research with Sergio Da Silva, Munso Bwalya, and Russell Humphrey showing that toric ideals of graphs containing an induced extended bowtie are not geometrically vertex decomposable.
 
 ## Tech Stack
 
